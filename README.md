@@ -3,12 +3,16 @@
 ### About Model
 This Jupyter notebook is designed to perform customer data segmentation, likely focusing on understanding different customer behaviors or profiles based on shopping data.
 
+---
+
 ### Dependencies
 - **numpy**: Numerical operations.
 - **pandas**: Data manipulation and analysis.
 - **matplotlib & seaborn**: Data visualization.
 - **sklearn**: Machine learning algorithms and data preprocessing.
 - **mpl_toolkits.mplot3d**: 3D plotting tools.
+
+---
 
 ### Steps in the Notebook
 
@@ -20,6 +24,8 @@ This Jupyter notebook is designed to perform customer data segmentation, likely 
 6. **Determining the Number of Clusters**: An elbow plot is likely created to determine the optimal number of clusters.
 7. **Cluster Visualization**: Clusters are visualized in a 3D scatter plot using matplotlib's 3D toolkit.
 8. **Analysis of Clusters**: Clusters are examined, with potential customizations and interpretations of each cluster.
+
+---
 
 ### Screenshots and Model Insights
 **Data Snapshot**
@@ -44,4 +50,4 @@ Displayed here is the Elbow Plot, a crucial visualization in determining the opt
 
 These 3D scatter plots present the formed clusters from the KMeans algorithm, visualizing the customer segments in a three-dimensional space. Each plot may represent different angles or emphasize various clusters. Typically, axes correspond to significant customer characteristics like age, annual income, and spending scores, helping to interpret the cluster's context. Colors distinguish between clusters, illustrating how each customer segment differs in terms of their feature values. The centroids of the clusters are also marked to denote the average characteristic of each segment. These visualizations are instrumental in understanding the segmentation's practical implications and deriving strategic insights.
 
-----
+---
