@@ -1,11 +1,11 @@
 # Customer Segmentation README
 
-### About Model
+## About Model
 This Jupyter notebook is designed to perform customer data segmentation, likely focusing on understanding different customer behaviors or profiles based on shopping data.
 
 ---
 
-### Dependencies
+## Dependencies
 - **numpy**: Numerical operations.
 - **pandas**: Data manipulation and analysis.
 - **matplotlib & seaborn**: Data visualization.
@@ -14,7 +14,7 @@ This Jupyter notebook is designed to perform customer data segmentation, likely 
 
 ---
 
-### Steps in the Notebook
+## Steps in the Notebook
 
 1. **Importing Libraries**: The notebook imports numpy, pandas, matplotlib, seaborn, sklearn, and mpl_toolkits for various data analysis tasks.
 2. **Data Loading and Preparation**: Customer data is loaded, possibly from `Mall_Customers.csv`, and prepared for analysis.
@@ -27,7 +27,7 @@ This Jupyter notebook is designed to perform customer data segmentation, likely 
 
 ---
 
-### Screenshots and Model Insights
+## Screenshots and Model Insights
 **Data Snapshot**
 
 <img width="787" alt="Screenshot 2023-12-29 at 11 11 08 PM" src="https://github.com/self-sasi/Customer-Segmentation-Model/assets/140454190/5331cd38-0a5d-4a60-877c-e9ef959b30be">
@@ -52,7 +52,7 @@ These 3D scatter plots present the formed clusters from the KMeans algorithm, vi
 
 ---
 
-### Contributions
+## Contributions
 
 Feel free to fork the project, submit issues and pull requests to enhance the functionalities or fix problems.
 
