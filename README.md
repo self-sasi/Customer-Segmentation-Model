@@ -22,12 +22,12 @@ This Jupyter notebook is designed to perform customer data segmentation, likely 
 8. **Analysis of Clusters**: Clusters are examined, with potential customizations and interpretations of each cluster.
 
 ### Screenshots Section
-**Data Snapshot**:
+**Data Snapshot**
 <img width="787" alt="Screenshot 2023-12-29 at 11 11 08 PM" src="https://github.com/self-sasi/Customer-Segmentation-Model/assets/140454190/5331cd38-0a5d-4a60-877c-e9ef959b30be">
 -
-**Elbow Plot**:
+**Elbow Plot**
 <img width="600" alt="Screenshot 2023-12-29 at 11 11 45 PM" src="https://github.com/self-sasi/Customer-Segmentation-Model/assets/140454190/61f69af7-202a-4ee4-9332-11ce2d660286">
 -
-**3D Cluster Plots**:
+**3D Cluster Plots**
 <img width="645" alt="Screenshot 2023-12-29 at 11 12 14 PM" src="https://github.com/self-sasi/Customer-Segmentation-Model/assets/140454190/3fe300d1-01db-446b-a1fe-ae9c6ec19941">
 -
