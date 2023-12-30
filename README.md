@@ -17,7 +17,7 @@ This Jupyter notebook is designed to perform customer data segmentation, likely 
 ### Steps in the Notebook
 
 1. **Importing Libraries**: The notebook imports numpy, pandas, matplotlib, seaborn, sklearn, and mpl_toolkits for various data analysis tasks.
-2. **Data Loading and Preparation**: Customer data is loaded, possibly from 'Mall_Customers.csv', and prepared for analysis.
+2. **Data Loading and Preparation**: Customer data is loaded, possibly from `Mall_Customers.csv`, and prepared for analysis.
 3. **Data Exploration (Optional)**: The notebook might include steps to explore the data to understand distributions, relationships, or anomalies.
 4. **Preprocessing**: Data is cleaned and preprocessed, including scaling and other necessary transformations.
 5. **Applying KMeans Clustering**: The KMeans algorithm from sklearn is used to segment customers into groups.
