@@ -51,3 +51,16 @@ Displayed here is the Elbow Plot, a crucial visualization in determining the opt
 These 3D scatter plots present the formed clusters from the KMeans algorithm, visualizing the customer segments in a three-dimensional space. Each plot may represent different angles or emphasize various clusters. Typically, axes correspond to significant customer characteristics like age, annual income, and spending scores, helping to interpret the cluster's context. Colors distinguish between clusters, illustrating how each customer segment differs in terms of their feature values. The centroids of the clusters are also marked to denote the average characteristic of each segment. These visualizations are instrumental in understanding the segmentation's practical implications and deriving strategic insights.
 
 ---
+
+### Contributions
+
+Feel free to fork the project, submit issues and pull requests to enhance the functionalities or fix problems.
+
+---
+
+## Credits
+
+The `Mall_Customers.csv` file utilized in this project is available on Kaggle as part of the Mall Customer Segmentation Dataset. You can find this file and more information at the following link: [Mall Customer Segmentation Data]([https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python]).
+
+I would like to acknowledge the creators and contributors of this dataset for providing the resources necessary to train and test our predictive models.
+
