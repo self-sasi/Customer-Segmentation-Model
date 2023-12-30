@@ -60,7 +60,7 @@ Feel free to fork the project, submit issues and pull requests to enhance the fu
 
 ## Credits
 
-The `Mall_Customers.csv` file utilized in this project is available on Kaggle as part of the Mall Customer Segmentation Dataset. You can find this file and more information at the following link: [Mall Customer Segmentation Data]([https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python]).
+The `Mall_Customers.csv` file utilized in this project is available on Kaggle as part of the Mall Customer Segmentation Dataset. You can find this file and more information at the following link: [Mall Customer Segmentation Data]((https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)).
 
 I would like to acknowledge the creators and contributors of this dataset for providing the resources necessary to train and test our predictive models.
 
