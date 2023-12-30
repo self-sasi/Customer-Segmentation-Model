@@ -28,7 +28,7 @@ This Jupyter notebook is designed to perform customer data segmentation, likely 
 
 This screenshot illustrates the initial view of the customer data set, showcasing the first few rows. It includes various customer attributes such as age, annual income, and spending scores, which are crucial for the segmentation process. This snapshot provides a glimpse into the data structure and types, ensuring that all necessary preprocessing steps are considered before moving into the segmentation analysis.
 
---
+----
 
 **Elbow Plot**
 
@@ -36,7 +36,7 @@ This screenshot illustrates the initial view of the customer data set, showcasin
 
 Displayed here is the Elbow Plot, a crucial visualization in determining the optimal number of clusters for KMeans segmentation. By plotting the within-cluster sum of squares (WCSS) against the number of clusters, we look for the 'elbow point' where the rate of decrease sharply changes. This point suggests a suitable number of clusters that balances between the model's complexity and its ability to fit the data. The Elbow Plot is an essential step in ensuring that the segmentation is neither too granular nor too simplified.
 
--
+----
 
 **3D Cluster Plots**
 
@@ -44,4 +44,4 @@ Displayed here is the Elbow Plot, a crucial visualization in determining the opt
 
 These 3D scatter plots present the formed clusters from the KMeans algorithm, visualizing the customer segments in a three-dimensional space. Each plot may represent different angles or emphasize various clusters. Typically, axes correspond to significant customer characteristics like age, annual income, and spending scores, helping to interpret the cluster's context. Colors distinguish between clusters, illustrating how each customer segment differs in terms of their feature values. The centroids of the clusters are also marked to denote the average characteristic of each segment. These visualizations are instrumental in understanding the segmentation's practical implications and deriving strategic insights.
 
---
+----
